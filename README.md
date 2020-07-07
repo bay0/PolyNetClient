@@ -1,4 +1,3 @@
-# StreamClient
-A binary stream client.  
-  
-[See the server repository for more information](https://github.com/KDIo3/StreamServer)
+# PolyNetClient
+A TCP client with a compile time randomly generated networking protocol. 
+
